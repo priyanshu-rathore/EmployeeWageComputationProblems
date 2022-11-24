@@ -35,3 +35,8 @@ do
 	((day++));
 done
 echo "Employee has earned $totalSalary $ in a month (Total working Hour : $totalWorkingHour)";
+
+# arr=($salary $totalSalary)
+
+# echo "Daily Wage : ${arr[1]}"
+# echo "Total Wage : ${arr[2]}"
